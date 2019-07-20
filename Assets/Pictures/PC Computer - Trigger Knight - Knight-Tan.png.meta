@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 068048ded093bd3489026e07b797ed77
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Trigger Knight - Knight-Tan_0
+    21300002: PC Computer - Trigger Knight - Knight-Tan_1
+    21300004: PC Computer - Trigger Knight - Knight-Tan_2
+    21300006: PC Computer - Trigger Knight - Knight-Tan_3
+    21300008: PC Computer - Trigger Knight - Knight-Tan_4
+    21300010: PC Computer - Trigger Knight - Knight-Tan_5
+    21300012: PC Computer - Trigger Knight - Knight-Tan_6
+    21300014: PC Computer - Trigger Knight - Knight-Tan_7
+    21300016: PC Computer - Trigger Knight - Knight-Tan_8
+    21300018: PC Computer - Trigger Knight - Knight-Tan_9
+    21300020: PC Computer - Trigger Knight - Knight-Tan_10
+    21300022: PC Computer - Trigger Knight - Knight-Tan_11
+    21300024: PC Computer - Trigger Knight - Knight-Tan_12
+    21300026: PC Computer - Trigger Knight - Knight-Tan_13
+    21300028: PC Computer - Trigger Knight - Knight-Tan_14
+    21300030: PC Computer - Trigger Knight - Knight-Tan_15
+    21300032: PC Computer - Trigger Knight - Knight-Tan_16
+    21300034: PC Computer - Trigger Knight - Knight-Tan_17
+    21300036: PC Computer - Trigger Knight - Knight-Tan_18
+    21300038: PC Computer - Trigger Knight - Knight-Tan_19
+    21300040: PC Computer - Trigger Knight - Knight-Tan_20
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Trigger Knight - Knight-Tan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e644e6576644f4688fb477cf53749a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Trigger Knight - Knight-Tan_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 350
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079a31bec92e9ff4ea35e837ad69cf79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Trigger Knight - Knight-Tan_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 351
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bf6f58248f5c64f9e065f993d1416c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Trigger Knight - Knight-Tan_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 353
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e704d0982e0364eab5a15e3e1b6d54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Trigger Knight - Knight-Tan_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 351
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b69746c5694e349bef826713fe09e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Trigger Knight - Knight-Tan_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 356
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69138f590bc9f9c49a28135c7f03923c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Trigger Knight - Knight-Tan_6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 356
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30224cfc2dfb7ee4b9b4cc4a61718c47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Trigger Knight - Knight-Tan_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 356
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbcc42a774a6d943906be715f4037d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Trigger Knight - Knight-Tan_8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 356
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2af6eb8d2880d46864eb5e843dcd75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Trigger Knight - Knight-Tan_9
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 356
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd688054375a69141bf022b251046604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Trigger Knight - Knight-Tan_10
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 356
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9fc19a8444c7549942a82c7ebb2d41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Trigger Knight - Knight-Tan_11
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 356
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2eea0a3f4f6384a89e2b20caba2a48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Trigger Knight - Knight-Tan_12
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 296
+        width: 90
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fbaca16d87b1c4abb206beeda6e49c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Trigger Knight - Knight-Tan_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 292
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897176cf53a601949adb4053b1f0f465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Trigger Knight - Knight-Tan_14
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 299
+        width: 105
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5113af99b715c47ae3d68667c69325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Trigger Knight - Knight-Tan_15
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 298
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf049c91c734294b8e1b7fa1ed23623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Trigger Knight - Knight-Tan_16
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 290
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d693096baf01ae4ca55e19fa1b5cbb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Trigger Knight - Knight-Tan_17
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 289
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757c1361a560b4f4ab29f3f4d8bba269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Trigger Knight - Knight-Tan_18
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 303
+        width: 78
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03f2c8b6235fcf448bd0a528b672823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Trigger Knight - Knight-Tan_19
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 303
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde268695865ac04b8cfeeecd3c16816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Trigger Knight - Knight-Tan_20
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3
+        width: 162
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a6118e07fc071428bd92666d600909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d20a8400dbc8eb143af036d04ae17310
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
