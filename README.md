@@ -7,3 +7,4 @@
  Thanks you for playing our game and please enjoy it.
  If you have any question, please contact us via email address: nmquang16@apcs.vn
 Link demo: https://drive.google.com/file/d/1XeGtSc0C7P1k4gFh7Un5WJML0BFiGfGY/view?usp=sharing
+Link game's poster: https://drive.google.com/file/d/13eB0ZE2pmXv5FsbIHw5DvKItp_pbGrnP/view?usp=sharing
